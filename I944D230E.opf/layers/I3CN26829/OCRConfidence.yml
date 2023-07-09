@@ -1,0 +1,95 @@
+id: 699075113d5646a5b81308343534dcc5
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  582dea20bdf54c06b18fba6bf34ceec7:
+    span:
+      start: 89
+      end: 90
+    confidence: 0.78905296
+  d83303a10438445384d98c74dc4d7225:
+    span:
+      start: 261
+      end: 263
+    confidence: 0.72370994
+  e8c30f2a297a40b9812b8b804d3545af:
+    span:
+      start: 306
+      end: 307
+    confidence: 0.4791261
+  ad3b30dd9c78452380091955aa292b2a:
+    span:
+      start: 453
+      end: 455
+    confidence: 0.7027008
+  82362d33ba534fba86d70634d5ddb827:
+    span:
+      start: 469
+      end: 471
+    confidence: 0.68312025
+  032aedcbbcdd4afd8e5132bbb277bdbf:
+    span:
+      start: 639
+      end: 640
+    confidence: 0.37493443
+  9b755fb686f842e28a3ec18a49836c6f:
+    span:
+      start: 660
+      end: 661
+    confidence: 0.67404395
+  2073d3b230c44016a94fb8f337917318:
+    span:
+      start: 677
+      end: 678
+    confidence: 0.7058843
+  300cc5fc47114dd6a8bfbdc05e97090b:
+    span:
+      start: 883
+      end: 884
+    confidence: 0.74544585
+  5bb9fda9b2f94e2784deb73e841d8bf8:
+    span:
+      start: 1528
+      end: 1531
+    confidence: 0.7815533
+  fd86b61f8d7e4d74b79ee9ebb213016f:
+    span:
+      start: 17387
+      end: 17392
+    confidence: 0.7083017340000001
+  7572b0cf2ed44b38b3fe90425bf5711a:
+    span:
+      start: 32002
+      end: 32003
+    confidence: 0.6282787
+  55f9ee558f6d460c99e4bea2c68d445c:
+    span:
+      start: 32100
+      end: 32101
+    confidence: 0.48253617
+  f3852765eea943d087af41186778d701:
+    span:
+      start: 77612
+      end: 77615
+    confidence: 0.7493378
+  6826bd2c34dd479a8c27314f6ae3b2f2:
+    span:
+      start: 109068
+      end: 109073
+    confidence: 0.7215687
+  73c8d2d83b344a3abfb721eac71d895f:
+    span:
+      start: 136456
+      end: 136458
+    confidence: 0.7175651
+  94f9d580622b443ba2224bd22443a664:
+    span:
+      start: 142705
+      end: 142708
+    confidence: 0.79164183
+  5f568095c6134121afc3a04d52676cbd:
+    span:
+      start: 150666
+      end: 150671
+    confidence: 0.6986873
+confidence_threshold: 0.8
